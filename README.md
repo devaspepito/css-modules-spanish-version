@@ -41,4 +41,3 @@ element.innerHTML = '<div class="' + styles.className + '">';
 - **Dependencias de Estilo Claras:** Importar estilos en sus respectivos componentes aclara qué estilos afectan a qué áreas, mejorando la legibilidad y el mantenimiento del código.
 - **Resuelve Problemas del Alcance Global:** CSS Modules previene el problema común de que los estilos en un archivo afecten a todo el proyecto, localizando los estilos en componentes específicos.
 - **Mejora la Reutilización y Modularidad:** CSS Modules permite usar los mismos nombres de clases en diferentes módulos, promoviendo estilos modulares y reutilizables.
-```
